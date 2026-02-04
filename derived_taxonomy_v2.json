@@ -1,0 +1,1319 @@
+{
+  "version": "v2_fulltext",
+  "tier1_count": 9,
+  "tier1_silhouette": 0.06049702423752492,
+  "total_articles": 1225,
+  "clusters": {
+    "Cluster_0": {
+      "article_count": 190,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.04349663725480339,
+      "top_existing_topics": [
+        [
+          "Productivity Gains",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          133
+        ],
+        [
+          "Inflation",
+          15
+        ],
+        [
+          "Cronyism",
+          6
+        ],
+        [
+          "Financial Markets",
+          4
+        ],
+        [
+          "Investment",
+          4
+        ]
+      ],
+      "sample_titles": [
+        "Research productivity in Germany and China has declined by 5% and 3% annually since 2010, respective",
+        "Investment funds\u2019 participation in Treasury auctions rose from 1.7% to 67.8% btw Jan. 2008 and Oct. ",
+        "Large firms in advanced economies significantly influence household economics, with consumers captur",
+        "2000-16: US labor share -5.4pts = 75% of post-WWII drop. Drivers: sector cycles 33%, depreciation 26",
+        "Education quality outweighs quantity for growth: PISA/PIAAC data shows 3-4x stronger elasticity vs y",
+        "A 3x3 matrix organizes policies to reduce inequality, focusing on target income groups & stages of e",
+        "According to @JonathanHuebnerm, the rate of important innovation peaked in 1873 and has been declini",
+        "@JasonFurman and @LHSummers argue that traditional debt-to-GDP ratios are inadequate for assessing f",
+        "R&D tax credits and skilled immigration are the most effective policy tools to promote innovation, a",
+        "Wealth inequality drivers quantified: Estate tax elimination raises output +0.35%, capital +0.87%, G",
+        "US trade deficits driven by push factors like surplus savings from other countries, which drive capi",
+        "Analysis by @RobertGordon suggests pandemic-era productivity gains were due to temporary reallocatio",
+        "A Pew study finds that only 15% of Americans trust the Federal government to do what is right \u201cmost ",
+        ".@benbernanke and @ojblanchard1 find that pandemic-era inflation across ten countries was initially ",
+        "Consolidation has largely taken place below levels that antitrust experts view as anticompetitive."
+      ],
+      "tier2_clusters": {
+        "T1-0_T2-0": {
+          "article_count": 61,
+          "top_existing_topics": [
+            [
+              "Public Debt",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              36
+            ],
+            [
+              "Inflation",
+              14
+            ],
+            [
+              "Financial Markets",
+              3
+            ]
+          ],
+          "sample_titles": [
+            "Investment funds\u2019 participation in Treasury auctions rose from 1.7% to 67.8% btw",
+            "@JasonFurman and @LHSummers argue that traditional debt-to-GDP ratios are inadeq",
+            "US trade deficits driven by push factors like surplus savings from other countri",
+            "A Pew study finds that only 15% of Americans trust the Federal government to do ",
+            ".@benbernanke and @ojblanchard1 find that pandemic-era inflation across ten coun"
+          ]
+        },
+        "T1-0_T2-1": {
+          "article_count": 59,
+          "top_existing_topics": [
+            [
+              "Value Added",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              44
+            ],
+            [
+              "Productivity",
+              3
+            ],
+            [
+              "Investment",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Research productivity in Germany and China has declined by 5% and 3% annually si",
+            "Large firms in advanced economies significantly influence household economics, w",
+            "2000-16: US labor share -5.4pts = 75% of post-WWII drop. Drivers: sector cycles ",
+            "A 3x3 matrix organizes policies to reduce inequality, focusing on target income ",
+            "According to @JonathanHuebnerm, the rate of important innovation peaked in 1873 "
+          ]
+        },
+        "T1-0_T2-2": {
+          "article_count": 70,
+          "top_existing_topics": [
+            [
+              "Hours Worked",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              53
+            ],
+            [
+              "Cronyism",
+              5
+            ],
+            [
+              "Data",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Education quality outweighs quantity for growth: PISA/PIAAC data shows 3-4x stro",
+            "Wealth inequality drivers quantified: Estate tax elimination raises output +0.35",
+            "Analysis by @RobertGordon suggests pandemic-era productivity gains were due to t",
+            "Consolidation has largely taken place below levels that antitrust experts view a",
+            "Big companies have been driving wage and job growth in America's smaller cities,"
+          ]
+        }
+      }
+    },
+    "Cluster_1": {
+      "article_count": 177,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.047160628995886716,
+      "top_existing_topics": [
+        [
+          "Minimum Wage",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          142
+        ],
+        [
+          "Fiscal Deficits",
+          7
+        ],
+        [
+          "Minimum Wage",
+          4
+        ],
+        [
+          "Inflation",
+          3
+        ],
+        [
+          "Immigration",
+          3
+        ]
+      ],
+      "sample_titles": [
+        "Bequeathable wealth/GDP has risen from 256% to 424% over 1997- 2021, but the current estate tax law ",
+        "Data from 444 public & 688 private colleges shows average median earnings 10 years post-enrollment v",
+        "The analysis of U.S. PIAAC numeracy scores reveals significant regional disparities in advanced cogn",
+        "Linking the decline in the share of US output devoted to goods rather than services to the twin budg",
+        "Kenneth Austin and @hillelnadler argue that tax and other preferences for foreigners holding U.S. as",
+        "Biden tax proposals would raise $3.8tn from 2021 to 2030, primarily targeting high-income households",
+        "Both the Social Security retirement and Medicare HI trust funds face insolvency in 7 years. Goldwein",
+        "CBO forecasts that the US population will increase by only 17mm over the next 25 years. Deaths will ",
+        "A study of MA community college cohorts between 2005-16 estimates that degree attainment in STEM wit",
+        "Men were nearly evenly split btw Trump and Biden in 2020, a shift from 2016 when Trump led men by 11",
+        "Between 2000 and 2024, NATO's defense spending averaged 1.72% of GDP, a cumulative $2T short of the ",
+        "Immigrants, 9% of 2024 voters, slightly favored Harris over Trump (51% to 47%). In 2020, those voter",
+        "@JeffreyHAnderson in terms of non-fatal violent crimes, no statistically significant difference btw ",
+        "Raising the federal minimum wage to $15 an hour could lift 1.3m Americans out of poverty but also le",
+        "The American Families Plan would add over $1tn to the national debt over the next decade, as propose"
+      ],
+      "tier2_clusters": {
+        "T1-1_T2-0": {
+          "article_count": 62,
+          "top_existing_topics": [
+            [
+              "School Districts",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              53
+            ],
+            [
+              "Inflation",
+              2
+            ],
+            [
+              "Education",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Data from 444 public & 688 private colleges shows average median earnings 10 yea",
+            "The analysis of U.S. PIAAC numeracy scores reveals significant regional disparit",
+            "Linking the decline in the share of US output devoted to goods rather than servi",
+            "A study of MA community college cohorts between 2005-16 estimates that degree at",
+            "Men were nearly evenly split btw Trump and Biden in 2020, a shift from 2016 when"
+          ]
+        },
+        "T1-1_T2-1": {
+          "article_count": 42,
+          "top_existing_topics": [
+            [
+              "Deficit Gdp",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              27
+            ],
+            [
+              "Fiscal Deficits",
+              7
+            ],
+            [
+              "Taxation",
+              3
+            ]
+          ],
+          "sample_titles": [
+            "Kenneth Austin and @hillelnadler argue that tax and other preferences for foreig",
+            "Biden tax proposals would raise $3.8tn from 2021 to 2030, primarily targeting hi",
+            "CBO forecasts that the US population will increase by only 17mm over the next 25",
+            "Between 2000 and 2024, NATO's defense spending averaged 1.72% of GDP, a cumulati",
+            "The American Families Plan would add over $1tn to the national debt over the nex"
+          ]
+        },
+        "T1-1_T2-2": {
+          "article_count": 73,
+          "top_existing_topics": [
+            [
+              "Income",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              62
+            ],
+            [
+              "Minimum Wage",
+              3
+            ],
+            [
+              "Immigration",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Bequeathable wealth/GDP has risen from 256% to 424% over 1997- 2021, but the cur",
+            "Both the Social Security retirement and Medicare HI trust funds face insolvency ",
+            "Raising the federal minimum wage to $15 an hour could lift 1.3m Americans out of",
+            "Enrico Moretti and @wilson_daniel_j find 35% of billionaires leave states that h",
+            "Households accumulated $2.5 trillion in excess savings btw March 2020 and Januar"
+          ]
+        }
+      }
+    },
+    "Cluster_2": {
+      "article_count": 140,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.054769366730802856,
+      "top_existing_topics": [
+        [
+          "Robin Brooks",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          47
+        ],
+        [
+          "Financial Markets",
+          41
+        ],
+        [
+          "News article",
+          26
+        ],
+        [
+          "Inflation",
+          14
+        ],
+        [
+          "Savings Glut/Trade Deficit",
+          6
+        ]
+      ],
+      "sample_titles": [
+        "As the Fed\u2019s cutting cycle likely renews amid indicators of labor market weakening, measures of core",
+        "While foreigners resumed buying US stocks, bond investors continued selling through April 16, contri",
+        "The EUR/$ has risen from 1.04 to 1.17 since January 2025. Robin Brooks warns: \u201cRapid strengthening i",
+        "Between 2017 and 2021, only 17% of $150B of Chinese trade financing was denominated in RMB. Since 20",
+        "Taiwan\u2019s bond portfolio, heavy in low-interest, long-duration bonds, has lost ~12% of its value in d",
+        "The rise in long-term Treasury yields likely reflects the global rise in rates rather than a US-spec",
+        "The dollar is down 11% since the start of the year. Robin Brooks argues that the decline is not a fu",
+        "At current 5-year yields, stabilizing debt/GDP would require a reduction in the primary deficit of 2",
+        "While CAPE is at 40, higher than its 1929 level, adjusting equity values for last year's profitabili",
+        "Gold is up 37% for the year, outperforming the \u201cimpressive, AI-fueled\u201d S&amp;P since the start of 20",
+        "The shift out of dollar assets has likely peaked, but inflows are unlikely to return to the 2017\u2013202",
+        "The \u201cconvenience yield\u201d of US Treasuries, as measured by the yield of AAA corporates over government",
+        "Updating his chart showing a striking correlation between the Covid inflation and that of the mid-19",
+        "Asia's foreign-exchange reserves have risen $400B this year to ~$8T. The increase has been in part d",
+        "The 10-year French OATS spread over German bunds yields is nearing the highs sparked by last year\u2019s "
+      ],
+      "tier2_clusters": {
+        "T1-2_T2-0": {
+          "article_count": 39,
+          "top_existing_topics": [
+            [
+              "Bond Yields",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              15
+            ],
+            [
+              "News article",
+              12
+            ],
+            [
+              "Financial Markets",
+              11
+            ]
+          ],
+          "sample_titles": [
+            "The rise in long-term Treasury yields likely reflects the global rise in rates r",
+            "At current 5-year yields, stabilizing debt/GDP would require a reduction in the ",
+            "The \u201cconvenience yield\u201d of US Treasuries, as measured by the yield of AAA corpor",
+            "A Bank of America analysis suggests Treasury's anticipated decision to issue mor",
+            "Traders are betting on 10-year yields falling from 4.3% to 4% in the coming week"
+          ]
+        },
+        "T1-2_T2-1": {
+          "article_count": 36,
+          "top_existing_topics": [
+            [
+              "Yields",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Financial Markets",
+              18
+            ],
+            [
+              "Database",
+              14
+            ],
+            [
+              "Security",
+              1
+            ]
+          ],
+          "sample_titles": [
+            "While CAPE is at 40, higher than its 1929 level, adjusting equity values for las",
+            "Q2 and \"Liberation Day\" saw the dollar's share of official foreign exchange rese",
+            "Loans from the Bundesbank and other north European central banks prevented a sud",
+            "Citing the rise in the 30-year yield as the market prices in more rate cuts, Bro",
+            "Robin Brooks argues that prior to the pandemic, US debt service was \u201cmanageable\u201d"
+          ]
+        },
+        "T1-2_T2-2": {
+          "article_count": 65,
+          "top_existing_topics": [
+            [
+              "Central Bank",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              18
+            ],
+            [
+              "News article",
+              14
+            ],
+            [
+              "Inflation",
+              12
+            ]
+          ],
+          "sample_titles": [
+            "As the Fed\u2019s cutting cycle likely renews amid indicators of labor market weakeni",
+            "While foreigners resumed buying US stocks, bond investors continued selling thro",
+            "The EUR/$ has risen from 1.04 to 1.17 since January 2025. Robin Brooks warns: \u201cR",
+            "Between 2017 and 2021, only 17% of $150B of Chinese trade financing was denomina",
+            "Taiwan\u2019s bond portfolio, heavy in low-interest, long-duration bonds, has lost ~1"
+          ]
+        }
+      }
+    },
+    "Cluster_3": {
+      "article_count": 124,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.05734236588610802,
+      "top_existing_topics": [
+        [
+          "Export Controls",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "News article",
+          64
+        ],
+        [
+          "Database",
+          31
+        ],
+        [
+          "Savings Glut/Trade Deficit",
+          6
+        ],
+        [
+          "Investment",
+          5
+        ],
+        [
+          "Taxation",
+          5
+        ]
+      ],
+      "sample_titles": [
+        "Consultancy EY estimates that increased European equipment spending on Europe\u2019s domestic defence sec",
+        "There is no such thing as an \u201call-American\u201d car, as the import content often exceeds 70%. Citing the",
+        "Cochrane relays an exchange with a CEO of a large retailer. \u201cWe have to raise prices roughly 10\u201315% ",
+        "The administration will appeal to the Supreme Court an appellate court ruling that the International",
+        "The concept of Import Certificates (ICs) aims to balance trade by issuing ICs to U.S. exporters equa",
+        "The West\u2019s rare-earth industry is revving up as both private and government capital flow into the se",
+        "Apple will start purchasing rare-earth minerals from MP Materials, and along with MP Materials, will",
+        "Australia, Japan, and the US agreed to increase \u201clogistical interoperability\u201d among their naval forc",
+        "A fiscal package spearheaded by French premier Bayrou and intended to reduce the government's budget",
+        "China has threatened retaliation against proposed Mexican tariffs on Chinese imports. Cars made in C",
+        "US advanced manufacturers import between 27% and 39% of their intermediate inputs and capital equipm",
+        "German industrial production is only at its 2005 level, even after a partial rebound in September. S",
+        "Price wars left 8 Chinese carmakers profitable in the first half of the year. A senior executive at ",
+        "Canada scrapped a digital services tax hours before it was to go into effect. After scrapping the ta",
+        "The CBO released an updated cost estimate for the OBBBA projecting that the bill would add over $2.4"
+      ],
+      "tier2_clusters": {
+        "T1-3_T2-0": {
+          "article_count": 47,
+          "top_existing_topics": [
+            [
+              "Government Subsidies",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              17
+            ],
+            [
+              "News article",
+              15
+            ],
+            [
+              "Investment",
+              5
+            ]
+          ],
+          "sample_titles": [
+            "Consultancy EY estimates that increased European equipment spending on Europe\u2019s ",
+            "US advanced manufacturers import between 27% and 39% of their intermediate input",
+            "German industrial production is only at its 2005 level, even after a partial reb",
+            "Price wars left 8 Chinese carmakers profitable in the first half of the year. A ",
+            "CCP officials have attacked \"neijuan\" or \u201cinvolution,\u201d meaning low-priced, disor"
+          ]
+        },
+        "T1-3_T2-1": {
+          "article_count": 34,
+          "top_existing_topics": [
+            [
+              "China",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "News article",
+              32
+            ],
+            [
+              "Database",
+              1
+            ],
+            [
+              "Security",
+              1
+            ]
+          ],
+          "sample_titles": [
+            "The West\u2019s rare-earth industry is revving up as both private and government capi",
+            "Apple will start purchasing rare-earth minerals from MP Materials, and along wit",
+            "Australia, Japan, and the US agreed to increase \u201clogistical interoperability\u201d am",
+            "China is limiting rare earths export volumes to prevent foreign stockpiling of r",
+            "The US and China have agreed to de-escalate the trade war, with China delaying i"
+          ]
+        },
+        "T1-3_T2-2": {
+          "article_count": 43,
+          "top_existing_topics": [
+            [
+              "Trumps Tariffs",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "News article",
+              17
+            ],
+            [
+              "Database",
+              13
+            ],
+            [
+              "Taxation",
+              5
+            ]
+          ],
+          "sample_titles": [
+            "There is no such thing as an \u201call-American\u201d car, as the import content often exc",
+            "Cochrane relays an exchange with a CEO of a large retailer. \u201cWe have to raise pr",
+            "The administration will appeal to the Supreme Court an appellate court ruling th",
+            "The concept of Import Certificates (ICs) aims to balance trade by issuing ICs to",
+            "A fiscal package spearheaded by French premier Bayrou and intended to reduce the"
+          ]
+        }
+      }
+    },
+    "Cluster_4": {
+      "article_count": 14,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.926456826022477,
+      "top_existing_topics": [
+        [
+          "Racial Wage",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          9
+        ],
+        [
+          "Financial Markets",
+          2
+        ],
+        [
+          "Cronyism",
+          1
+        ],
+        [
+          "Unemployment/Participation",
+          1
+        ],
+        [
+          "Savings Glut/Trade Deficit",
+          1
+        ]
+      ],
+      "sample_titles": [
+        "@AEI: From 1967 to 2020, children in the bottom income quintile saw a 27pt decline in living with ma",
+        "Mark Warshawsky and Giorgi Bokhua @AEIecon estimate that the US has a sustainable gross debt limit o",
+        "A cross-country statistical study provides robust evidence that expropriation risk such as corruptio",
+        "DEI impact assessment reveals key gaps: Mandatory training shows null/negative effects. Racial wage ",
+        "First Amendment shapes education economics: Compelled speech restrictions affect $700bn public educa",
+        "The Census Bureau's Official Poverty Measure (OPM) overestimates poverty by excluding major governme",
+        "The manufacturing share of US employment has fallen from its 1944 peak of ~38% to its current level ",
+        "AFQT scores explain racial wage gaps: Test accounts for 75% male gap, 100% female gap vs education l",
+        "Higher-income families are increasingly taking on debt for undergraduate education, with 60% of high",
+        "In 2023:H2 the 10-year soared from 4% to 5%, then retreated to 3.9%. Averaging existing term structu",
+        "Middle Class Is Shrinking....Because They're Moving Up. From 1967 to 2018, households earning over $",
+        "Zero-sum thinking, in terms of political and policy views is strongly associated with lower levels o",
+        "Olivier Jeanne and Jeongwon Son find that the cumulative effect of news about US tariffs on China in",
+        "The Dollar has fallen sharply since April 9, but trade-weighted, the US-G10 interest differential is"
+      ],
+      "tier2_clusters": {
+        "T1-4_T2-0": {
+          "article_count": 3,
+          "top_existing_topics": [
+            [
+              "Census Bureaus",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              3
+            ]
+          ],
+          "sample_titles": [
+            "@AEI: From 1967 to 2020, children in the bottom income quintile saw a 27pt decli",
+            "First Amendment shapes education economics: Compelled speech restrictions affect",
+            "The Census Bureau's Official Poverty Measure (OPM) overestimates poverty by excl"
+          ]
+        },
+        "T1-4_T2-1": {
+          "article_count": 10,
+          "top_existing_topics": [
+            [
+              "Dollar",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              5
+            ],
+            [
+              "Financial Markets",
+              2
+            ],
+            [
+              "Cronyism",
+              1
+            ]
+          ],
+          "sample_titles": [
+            "Mark Warshawsky and Giorgi Bokhua @AEIecon estimate that the US has a sustainabl",
+            "A cross-country statistical study provides robust evidence that expropriation ri",
+            "DEI impact assessment reveals key gaps: Mandatory training shows null/negative e",
+            "The manufacturing share of US employment has fallen from its 1944 peak of ~38% t",
+            "AFQT scores explain racial wage gaps: Test accounts for 75% male gap, 100% femal"
+          ]
+        },
+        "T1-4_T2-2": {
+          "article_count": 1,
+          "top_existing_topics": [
+            [
+              "Higherincome Families",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              1
+            ]
+          ],
+          "sample_titles": [
+            "Higher-income families are increasingly taking on debt for undergraduate educati"
+          ]
+        }
+      }
+    },
+    "Cluster_5": {
+      "article_count": 90,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.11570145701321949,
+      "top_existing_topics": [
+        [
+          "Michael Cembalest",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          50
+        ],
+        [
+          "Financial Markets",
+          21
+        ],
+        [
+          "Investment",
+          5
+        ],
+        [
+          "Inflation",
+          4
+        ],
+        [
+          "Savings Glut/Trade Deficit",
+          2
+        ]
+      ],
+      "sample_titles": [
+        "77% of wealthy Americans grew up middle class or poor, highlighting significant upward mobility. 20%",
+        "The US accounted for 54% of global VC investment in 2018, a decline from previous years, with $130.9",
+        "Hindo and Riseley suggest that inflation risk is \u201ctilted asymmetrically to the upside and centered h",
+        ".@SteveMiran cites the 2018-19 experience with tariffs on China and $/Yuan exchange rates and argues",
+        "Aging workforce dampens productivity: Study projects -3-9% output decline next decade. Older worker ",
+        "Morgan Stanley estimates that the largest public firms will see their EBIT profit pool rise 5% as AI",
+        "Inker and Pease argue that 80% of the S&amp;P\u2019s outperformance relative to advanced economies since ",
+        "The @BIS_org annual report notes that real wages have declined in 2022-23 by more than in past defla",
+        "Torsten Sl\u00f8k argues the rise of passive investing (~60% of US equity funds) has led to reduced short",
+        ".@SteveMiran @Nouriel argue that a rotation in Treasury's issuance policies from long-term debt to b",
+        "As firms have stayed private longer wealth creation has shifted from public to private markets. @mjm",
+        "Since 2000, Domino\u2019s Pizza has outperformed Google, Tractor Supply has outperformed Apple, and Old D",
+        "Goldman forecasts an annualised total return of 6.5% for the S&amp;P 500 over the next decade, under",
+        "The American corporate sector has been substantially self-financing since 2000. Net equity issuance ",
+        "Capital expenditures net of depreciation for the Russell 3000 peaked at 6.9% of sales in 1988, but h"
+      ],
+      "tier2_clusters": {
+        "T1-5_T2-0": {
+          "article_count": 16,
+          "top_existing_topics": [
+            [
+              "Labor Force",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              10
+            ],
+            [
+              "Financial Markets",
+              3
+            ],
+            [
+              "Graph",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Goldman forecasts an annualised total return of 6.5% for the S&amp;P 500 over th",
+            "Jan Hatzius argues that \"China\u2019s trading partners are unlikely to tolerate susta",
+            "Goldman believes it is likely the French government will lose next week\u2019s confid",
+            "Goldman estimates overall American power demand is accelerating to a 2.5% CAGR (",
+            ".@GoldmanSachs forecasts that by 2075 both India and China will have slightly la"
+          ]
+        },
+        "T1-5_T2-1": {
+          "article_count": 28,
+          "top_existing_topics": [
+            [
+              "Cembalest",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              15
+            ],
+            [
+              "Financial Markets",
+              7
+            ],
+            [
+              "Investment",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "Aging workforce dampens productivity: Study projects -3-9% output decline next d",
+            "Morgan Stanley estimates that the largest public firms will see their EBIT profi",
+            "As firms have stayed private longer wealth creation has shifted from public to p",
+            "The American corporate sector has been substantially self-financing since 2000. ",
+            "Capital expenditures net of depreciation for the Russell 3000 peaked at 6.9% of "
+          ]
+        },
+        "T1-5_T2-2": {
+          "article_count": 46,
+          "top_existing_topics": [
+            [
+              "Household Income",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              25
+            ],
+            [
+              "Financial Markets",
+              11
+            ],
+            [
+              "Inflation",
+              3
+            ]
+          ],
+          "sample_titles": [
+            "77% of wealthy Americans grew up middle class or poor, highlighting significant ",
+            "The US accounted for 54% of global VC investment in 2018, a decline from previou",
+            "Hindo and Riseley suggest that inflation risk is \u201ctilted asymmetrically to the u",
+            ".@SteveMiran cites the 2018-19 experience with tariffs on China and $/Yuan excha",
+            "Inker and Pease argue that 80% of the S&amp;P\u2019s outperformance relative to advan"
+          ]
+        }
+      }
+    },
+    "Cluster_6": {
+      "article_count": 255,
+      "tier2_count": 5,
+      "tier2_silhouette": 0.038463370002538015,
+      "top_existing_topics": [
+        [
+          "Et Al",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          176
+        ],
+        [
+          "Inflation",
+          9
+        ],
+        [
+          "Data",
+          9
+        ],
+        [
+          "Investment",
+          7
+        ],
+        [
+          "Productivity",
+          6
+        ]
+      ],
+      "sample_titles": [
+        "70% of 30-year-olds are outperforming their parents in lifecycle economic achievements, challenging ",
+        "A 10-percentile increase in a person's polygenic index (PGI) raises that person's income by 0.9 perc",
+        "China GDP overstatement: Growth inflated +1.7%/yr (2008-16), economy 12% smaller than reported. Debt",
+        "A 1% rise in corporate tax rates is associated with a 0.5% drop in wages, indicating that the burden",
+        ".@chris_d_clayton, @m_maggiori, and @JSchrege warn that U.S. financial \u201chegemony\u201d may be limited by ",
+        ".@DrenikAndres et al argue that surging supply-induced inflation in 2021-22 reduced workers\u2019 real wa",
+        ".@DAcemogluMIT and @baselinescene cite 19th-century textile automation to argue that AI may raise pr",
+        "Research by @DaronAcemoglu finds the overall impact of AI on US employment remains limited, with AI ",
+        "Air pollution has a significant impact on student performance in the US. Each one-unit increase in p",
+        "Research by @ErikHurst finds college major choice has strong predictive power in explaining gender w",
+        "Genetic g factor accounts for 58.36% of genetic variance across seven cognitive traits, highlighting",
+        "Prior to mass schooling in the US, @AlthoffLukas @ReichardtHugo find that the mother\u2019s human capital",
+        "Despite significantly higher returns for low-income housing in the US and two European countries, in",
+        "The concept of an economic singularity is defined as the point where the economic growth rate surpas",
+        ".@menaka_hampole et al. estimate that AI has little net effect on overall labor demand. Though \u201chigh"
+      ],
+      "tier2_clusters": {
+        "T1-6_T2-0": {
+          "article_count": 55,
+          "top_existing_topics": [
+            [
+              "Labor Productivity",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              38
+            ],
+            [
+              "Investment",
+              7
+            ],
+            [
+              "Productivity",
+              4
+            ]
+          ],
+          "sample_titles": [
+            "Research by @DaronAcemoglu finds the overall impact of AI on US employment remai",
+            "Genetic g factor accounts for 58.36% of genetic variance across seven cognitive ",
+            ".@menaka_hampole et al. estimate that AI has little net effect on overall labor ",
+            "In the 20% of occupations most exposed to AI, employment of 22- to 25-year-olds ",
+            "Bonney et al show that in Norwegian data there is a large \u201cchild penalty\u201d for fe"
+          ]
+        },
+        "T1-6_T2-1": {
+          "article_count": 32,
+          "top_existing_topics": [
+            [
+              "Superstar Cities",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              16
+            ],
+            [
+              "Inflation",
+              6
+            ],
+            [
+              "Housing",
+              4
+            ]
+          ],
+          "sample_titles": [
+            "Despite significantly higher returns for low-income housing in the US and two Eu",
+            "Adjusting for changes in how housing inflation is measured reveals that achievin",
+            "European investors held 29% of non-conforming high-risk MBS not backed by USG in",
+            "US efforts to reduce domestic pharmaceutical prices, without corresponding incre",
+            "A study covering most US commercial banks from 1865 - 2023 finds that 80% of pre"
+          ]
+        },
+        "T1-6_T2-2": {
+          "article_count": 40,
+          "top_existing_topics": [
+            [
+              "Research Shows",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              31
+            ],
+            [
+              "Education",
+              2
+            ],
+            [
+              "Geography (Urban/Rural)",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "A 10-percentile increase in a person's polygenic index (PGI) raises that person'",
+            "Prior to mass schooling in the US, @AlthoffLukas @ReichardtHugo find that the mo",
+            ".@PikaGold notes countries with birth rates now below 1.3 saw \u201crapid growth in G",
+            "Data from a British birth cohort followed since 1958 show that cognitive skills ",
+            "Carol Shiue and Wolfgang Keller find that descendants of elites that lost status"
+          ]
+        },
+        "T1-6_T2-3": {
+          "article_count": 72,
+          "top_existing_topics": [
+            [
+              "Minimum Wage",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              49
+            ],
+            [
+              "Minimum Wage",
+              6
+            ],
+            [
+              "Data",
+              6
+            ]
+          ],
+          "sample_titles": [
+            "70% of 30-year-olds are outperforming their parents in lifecycle economic achiev",
+            "Air pollution has a significant impact on student performance in the US. Each on",
+            "Research by @ErikHurst finds college major choice has strong predictive power in",
+            "75% of rising btw-firm inequality is from rising inequality at industry level, p",
+            "Crime fell in 2020, but the risk of street crime victimization in NYC, LA, and C"
+          ]
+        },
+        "T1-6_T2-4": {
+          "article_count": 56,
+          "top_existing_topics": [
+            [
+              "Labor Demand",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              42
+            ],
+            [
+              "Savings Glut/Trade Deficit",
+              2
+            ],
+            [
+              "Inflation",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "China GDP overstatement: Growth inflated +1.7%/yr (2008-16), economy 12% smaller",
+            "A 1% rise in corporate tax rates is associated with a 0.5% drop in wages, indica",
+            ".@chris_d_clayton, @m_maggiori, and @JSchrege warn that U.S. financial \u201chegemony",
+            ".@DrenikAndres et al argue that surging supply-induced inflation in 2021-22 redu",
+            ".@DAcemogluMIT and @baselinescene cite 19th-century textile automation to argue "
+          ]
+        }
+      }
+    },
+    "Cluster_7": {
+      "article_count": 138,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.05538493965831287,
+      "top_existing_topics": [
+        [
+          "Social Media",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "Database",
+          54
+        ],
+        [
+          "News article",
+          36
+        ],
+        [
+          "Politics",
+          13
+        ],
+        [
+          "Housing",
+          9
+        ],
+        [
+          "Inflation",
+          6
+        ]
+      ],
+      "sample_titles": [
+        "Btw 1993 and 2023, the share of American female high school seniors who reported wanting to get marr",
+        "Polling data show that the share of Americans who believe in American exceptionalism has consistentl",
+        "A WSJ analysis found insurers rated by Demotech were 30x as likely to become insolvent as those grad",
+        "The housing affordability crisis in LA depresses GDP by over 2%, translating into $18bn to $22bn in ",
+        "Sub-Saharan Africa\u2019s population, currently ~1.3B, is forecast to reach ~3.5B in 75 years. ~60% of th",
+        "Among Americans 25\u201334, 41% of women and 50% of men were single in 2023, a share that has doubled ove",
+        "43% of American adults say widespread betting on sports is \"a bad thing for society,\" up from 34% in",
+        "A WSJ-NORC poll finds the % of Americans who say they have \u201ca good chance of improving their standar",
+        "25% of unemployed Americans have a college degree. Overall, degree holders had an unemployment rate ",
+        "America remains a high-trust society, though Americans with fewer friends report lower trust levels.",
+        "States that had above average fertility rates in 2014 are responsible for 80% of the decline in Amer",
+        "The US foreign-born population reached 51.4mm, or 15.4% of the population in 2024, Nicholas Eberstad",
+        "The US prison population was 1.6mm in 2009 and fell to 1.2mm at the end of 2023 as criminals who wer",
+        "Since January 2020, private sector real hourly earnings have fallen 9% in New York City, while incre",
+        "Bird flu is surging in part due to the fall migration, resulting in the deaths of almost 7mm farmed "
+      ],
+      "tier2_clusters": {
+        "T1-7_T2-0": {
+          "article_count": 64,
+          "top_existing_topics": [
+            [
+              "Americans Aged",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              31
+            ],
+            [
+              "News article",
+              20
+            ],
+            [
+              "Politics",
+              8
+            ]
+          ],
+          "sample_titles": [
+            "Btw 1993 and 2023, the share of American female high school seniors who reported",
+            "Sub-Saharan Africa\u2019s population, currently ~1.3B, is forecast to reach ~3.5B in ",
+            "Among Americans 25\u201334, 41% of women and 50% of men were single in 2023, a share ",
+            "43% of American adults say widespread betting on sports is \"a bad thing for soci",
+            "America remains a high-trust society, though Americans with fewer friends report"
+          ]
+        },
+        "T1-7_T2-1": {
+          "article_count": 8,
+          "top_existing_topics": [
+            [
+              "Voters Age",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "News article",
+              3
+            ],
+            [
+              "Database",
+              2
+            ],
+            [
+              "Politics",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "A New York Times analysis of the NYC democratic primary electorate found a signi",
+            "Federal cuts in health care spending and food stamps mean New York State is faci",
+            "Since 2020, Austin's payroll employment and housing prices rose 20% and 44%, res",
+            "\u201cEven a few billionaires or marquee employers packing up their bags\u201d could put a",
+            "Michael Lange argues Mamdani\u2019s winning coalition was one of the \u201cin-between,\u201d ma"
+          ]
+        },
+        "T1-7_T2-2": {
+          "article_count": 66,
+          "top_existing_topics": [
+            [
+              "Peak Peak",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              21
+            ],
+            [
+              "News article",
+              13
+            ],
+            [
+              "Housing",
+              8
+            ]
+          ],
+          "sample_titles": [
+            "Polling data show that the share of Americans who believe in American exceptiona",
+            "A WSJ analysis found insurers rated by Demotech were 30x as likely to become ins",
+            "The housing affordability crisis in LA depresses GDP by over 2%, translating int",
+            "A WSJ-NORC poll finds the % of Americans who say they have \u201ca good chance of imp",
+            "25% of unemployed Americans have a college degree. Overall, degree holders had a"
+          ]
+        }
+      }
+    },
+    "Cluster_8": {
+      "article_count": 97,
+      "tier2_count": 3,
+      "tier2_silhouette": 0.08947857902487438,
+      "top_existing_topics": [
+        [
+          "Paul Kedrosky",
+          999
+        ]
+      ],
+      "top_existing_categories": [
+        [
+          "News article",
+          45
+        ],
+        [
+          "Database",
+          28
+        ],
+        [
+          "Investment",
+          13
+        ],
+        [
+          "Financial Markets",
+          3
+        ],
+        [
+          "Unemployment/Participation",
+          2
+        ]
+      ],
+      "sample_titles": [
+        "James Mackintosh notes that the historical tendency for the total return of high investment firms to",
+        "Using Nvidia\u2019s datacenter revenue as a reference for US AI capex, @JensNordvig estimates that AI wil",
+        "The unemployment rate for the quintile of workers most exposed to AI rose 0.30pp between 2022 and ea",
+        "As AI-related real private fixed investment has surged, non-AI-related investment\u2019s contribution to ",
+        "The US built 888 miles of new high-voltage transmission lines in 2024, less than the 2015\u20132019 mean ",
+        "PJM, the largest grid operator whose coverage includes \"data center alley\" in VA, announced a 22% y/",
+        "A new combined cycle-gas plant cost ~$800 a kilowatt in 2021, but is ~$2,600\u20132,800 today due to supp",
+        "Since the release of ChatGPT in November of 2022, earnings per share of the MAG 7 have risen 125% (t",
+        "Between 2018\u201319 and 2023\u201325, Americans aged 22\u201327 with a bachelor's degree saw a steep increase in t",
+        "Middle-income jobs in the US\u2019s leading sectors are migrating out of high-cost cities. Headcount at s",
+        "Amazon has deployed more than one million robots in its facilities, which are at their lowest employ",
+        "The New York Times reports that Amazon\u2019s automation team expects the company can avoid hiring more t",
+        "The Chinese government has started managing SMIC's chip output, prioritizing Huawei\u2019s demand as Amer",
+        "Smaller, less expensive industrial robots dubbed collaborative robots or \"Cobots\" are helping to aut",
+        "Morgan Stanley shows AI-related cap-ex growth exceeds total non-residential fixed investment growth "
+      ],
+      "tier2_clusters": {
+        "T1-8_T2-0": {
+          "article_count": 30,
+          "top_existing_topics": [
+            [
+              "Drone Manufacturers",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "News article",
+              18
+            ],
+            [
+              "Database",
+              8
+            ],
+            [
+              "Investment",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "As AI-related real private fixed investment has surged, non-AI-related investmen",
+            "The US built 888 miles of new high-voltage transmission lines in 2024, less than",
+            "PJM, the largest grid operator whose coverage includes \"data center alley\" in VA",
+            "A new combined cycle-gas plant cost ~$800 a kilowatt in 2021, but is ~$2,600\u20132,8",
+            "Middle-income jobs in the US\u2019s leading sectors are migrating out of high-cost ci"
+          ]
+        },
+        "T1-8_T2-1": {
+          "article_count": 14,
+          "top_existing_topics": [
+            [
+              "Advanced Chips",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "News article",
+              12
+            ],
+            [
+              "Database",
+              2
+            ]
+          ],
+          "sample_titles": [
+            "The unemployment rate for the quintile of workers most exposed to AI rose 0.30pp",
+            "The Chinese government has started managing SMIC's chip output, prioritizing Hua",
+            "The Chinese government said the US spin-off of TikTok will still use ByteDance's",
+            "Chinese regulators have banned domestic firms from further purchases of Nvidia\u2019s",
+            "Chinese concerns over Nvidia\u2019s H20 chips are not new. Chris Miller notes, \u201cBeiji"
+          ]
+        },
+        "T1-8_T2-2": {
+          "article_count": 53,
+          "top_existing_topics": [
+            [
+              "Ai",
+              999
+            ]
+          ],
+          "top_existing_categories": [
+            [
+              "Database",
+              18
+            ],
+            [
+              "News article",
+              15
+            ],
+            [
+              "Investment",
+              11
+            ]
+          ],
+          "sample_titles": [
+            "James Mackintosh notes that the historical tendency for the total return of high",
+            "Using Nvidia\u2019s datacenter revenue as a reference for US AI capex, @JensNordvig e",
+            "Since the release of ChatGPT in November of 2022, earnings per share of the MAG ",
+            "Between 2018\u201319 and 2023\u201325, Americans aged 22\u201327 with a bachelor's degree saw a",
+            "Morgan Stanley shows AI-related cap-ex growth exceeds total non-residential fixe"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+extracted_texts.json
+taxonomy_output_v2/website/
+# We might want to keep the website source but maybe not the build artifacts if we deploy elsewhere?
+# User asked about deployment, so maybe we keep the build for now, but usually 'dist' or 'build' is ignored.
+# For now I will only ignore the large file and pycache.

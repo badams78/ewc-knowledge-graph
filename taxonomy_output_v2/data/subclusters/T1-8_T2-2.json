@@ -1,0 +1,144 @@
+{
+  "id": "T1-8_T2-2",
+  "name": "Ai & Database",
+  "primary_id": "P8",
+  "primary_name": "Paul Kedrosky",
+  "article_count": 53,
+  "coords": {
+    "x": 89.49310302734375,
+    "y": 52.45223617553711
+  },
+  "spider": {
+    "Productivity Gains": 0.7348827168772208,
+    "Minimum Wage": 0.6492547683489855,
+    "Robin Brooks": 0.7494575775307224,
+    "Export Controls": 0.7690271587758299,
+    "Racial Wage": 0.25386841754830736,
+    "Michael Cembalest": 0.7514632822388654,
+    "Et Al": 0.6177809332087869,
+    "Social Media": 0.8232447016064877,
+    "Paul Kedrosky": 0.9802507822234634
+  },
+  "related": [
+    {
+      "id": "T1-8_T2-0",
+      "name": "Drone Manufacturers & News article",
+      "primary_name": "Paul Kedrosky",
+      "similarity": 0.8883496788532322
+    },
+    {
+      "id": "T1-7_T2-2",
+      "name": "Peak Peak & Database",
+      "primary_name": "Social Media",
+      "similarity": 0.8215489241243772
+    },
+    {
+      "id": "T1-0_T2-1",
+      "name": "Value Added & Database",
+      "primary_name": "Productivity Gains",
+      "similarity": 0.8025838627055902
+    },
+    {
+      "id": "T1-5_T2-2",
+      "name": "Household Income & Database",
+      "primary_name": "Michael Cembalest",
+      "similarity": 0.7997747974128742
+    },
+    {
+      "id": "T1-7_T2-0",
+      "name": "Americans Aged & Database",
+      "primary_name": "Social Media",
+      "similarity": 0.7845463102792001
+    },
+    {
+      "id": "T1-3_T2-0",
+      "name": "Government Subsidies & Database",
+      "primary_name": "Export Controls",
+      "similarity": 0.7843466959636536
+    },
+    {
+      "id": "T1-8_T2-1",
+      "name": "Advanced Chips & News article",
+      "primary_name": "Paul Kedrosky",
+      "similarity": 0.7811834311253063
+    },
+    {
+      "id": "T1-2_T2-2",
+      "name": "Central Bank & Database",
+      "primary_name": "Robin Brooks",
+      "similarity": 0.753284369618616
+    },
+    {
+      "id": "T1-2_T2-0",
+      "name": "Bond Yields & Database",
+      "primary_name": "Robin Brooks",
+      "similarity": 0.6990271813605566
+    },
+    {
+      "id": "T1-3_T2-2",
+      "name": "Trumps Tariffs & News article",
+      "primary_name": "Export Controls",
+      "similarity": 0.6937275335666025
+    },
+    {
+      "id": "T1-2_T2-1",
+      "name": "Yields & Financial Markets",
+      "primary_name": "Robin Brooks",
+      "similarity": 0.6931309407768055
+    },
+    {
+      "id": "T1-3_T2-1",
+      "name": "China & News article",
+      "primary_name": "Export Controls",
+      "similarity": 0.6927236863208175
+    },
+    {
+      "id": "T1-0_T2-2",
+      "name": "Hours Worked & Database",
+      "primary_name": "Productivity Gains",
+      "similarity": 0.6881770874187896
+    },
+    {
+      "id": "T1-5_T2-0",
+      "name": "Labor Force & Database",
+      "primary_name": "Michael Cembalest",
+      "similarity": 0.6819129872407187
+    },
+    {
+      "id": "T1-6_T2-0",
+      "name": "Labor Productivity & Database",
+      "primary_name": "Et Al",
+      "similarity": 0.6727895959705602
+    },
+    {
+      "id": "T1-0_T2-0",
+      "name": "Public Debt & Database",
+      "primary_name": "Productivity Gains",
+      "similarity": 0.664147151593366
+    },
+    {
+      "id": "T1-1_T2-0",
+      "name": "School Districts & Database",
+      "primary_name": "Minimum Wage",
+      "similarity": 0.6496969322482959
+    },
+    {
+      "id": "T1-1_T2-1",
+      "name": "Deficit Gdp & Database",
+      "primary_name": "Minimum Wage",
+      "similarity": 0.639779541952977
+    },
+    {
+      "id": "T1-5_T2-1",
+      "name": "Cembalest & Database",
+      "primary_name": "Michael Cembalest",
+      "similarity": 0.622123907462672
+    },
+    {
+      "id": "T1-6_T2-1",
+      "name": "Superstar Cities & Database",
+      "primary_name": "Et Al",
+      "similarity": 0.6019188463493799
+    }
+  ]
+}

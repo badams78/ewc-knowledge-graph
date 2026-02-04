@@ -1,0 +1,232 @@
+{
+  "primaries": [
+    {
+      "id": "P0",
+      "name": "Productivity Gains",
+      "color": "#E63946",
+      "subclusters": [
+        {
+          "id": "T1-0_T2-0",
+          "name": "Public Debt & Database",
+          "article_count": 61
+        },
+        {
+          "id": "T1-0_T2-1",
+          "name": "Value Added & Database",
+          "article_count": 59
+        },
+        {
+          "id": "T1-0_T2-2",
+          "name": "Hours Worked & Database",
+          "article_count": 70
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "name": "Minimum Wage",
+      "color": "#457B9D",
+      "subclusters": [
+        {
+          "id": "T1-1_T2-0",
+          "name": "School Districts & Database",
+          "article_count": 62
+        },
+        {
+          "id": "T1-1_T2-1",
+          "name": "Deficit Gdp & Database",
+          "article_count": 42
+        },
+        {
+          "id": "T1-1_T2-2",
+          "name": "Income & Database",
+          "article_count": 73
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Robin Brooks",
+      "color": "#2A9D8F",
+      "subclusters": [
+        {
+          "id": "T1-2_T2-0",
+          "name": "Bond Yields & Database",
+          "article_count": 39
+        },
+        {
+          "id": "T1-2_T2-1",
+          "name": "Yields & Financial Markets",
+          "article_count": 36
+        },
+        {
+          "id": "T1-2_T2-2",
+          "name": "Central Bank & Database",
+          "article_count": 65
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "Export Controls",
+      "color": "#E9C46A",
+      "subclusters": [
+        {
+          "id": "T1-3_T2-0",
+          "name": "Government Subsidies & Database",
+          "article_count": 47
+        },
+        {
+          "id": "T1-3_T2-1",
+          "name": "China & News article",
+          "article_count": 34
+        },
+        {
+          "id": "T1-3_T2-2",
+          "name": "Trumps Tariffs & News article",
+          "article_count": 43
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "Racial Wage",
+      "color": "#F4A261",
+      "subclusters": [
+        {
+          "id": "T1-4_T2-0",
+          "name": "Census Bureaus & Database",
+          "article_count": 3
+        },
+        {
+          "id": "T1-4_T2-1",
+          "name": "Dollar & Database",
+          "article_count": 10
+        },
+        {
+          "id": "T1-4_T2-2",
+          "name": "Higherincome Families & Database",
+          "article_count": 1
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Michael Cembalest",
+      "color": "#264653",
+      "subclusters": [
+        {
+          "id": "T1-5_T2-0",
+          "name": "Labor Force & Database",
+          "article_count": 16
+        },
+        {
+          "id": "T1-5_T2-1",
+          "name": "Cembalest & Database",
+          "article_count": 28
+        },
+        {
+          "id": "T1-5_T2-2",
+          "name": "Household Income & Database",
+          "article_count": 46
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "name": "Et Al",
+      "color": "#8338EC",
+      "subclusters": [
+        {
+          "id": "T1-6_T2-0",
+          "name": "Labor Productivity & Database",
+          "article_count": 55
+        },
+        {
+          "id": "T1-6_T2-1",
+          "name": "Superstar Cities & Database",
+          "article_count": 32
+        },
+        {
+          "id": "T1-6_T2-2",
+          "name": "Research Shows & Database",
+          "article_count": 40
+        },
+        {
+          "id": "T1-6_T2-3",
+          "name": "Minimum Wage & Database",
+          "article_count": 72
+        },
+        {
+          "id": "T1-6_T2-4",
+          "name": "Labor Demand & Database",
+          "article_count": 56
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "name": "Social Media",
+      "color": "#FF006E",
+      "subclusters": [
+        {
+          "id": "T1-7_T2-0",
+          "name": "Americans Aged & Database",
+          "article_count": 64
+        },
+        {
+          "id": "T1-7_T2-1",
+          "name": "Voters Age & News article",
+          "article_count": 8
+        },
+        {
+          "id": "T1-7_T2-2",
+          "name": "Peak Peak & Database",
+          "article_count": 66
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "name": "Paul Kedrosky",
+      "color": "#3A86FF",
+      "subclusters": [
+        {
+          "id": "T1-8_T2-0",
+          "name": "Drone Manufacturers & News article",
+          "article_count": 30
+        },
+        {
+          "id": "T1-8_T2-1",
+          "name": "Advanced Chips & News article",
+          "article_count": 14
+        },
+        {
+          "id": "T1-8_T2-2",
+          "name": "Ai & Database",
+          "article_count": 53
+        }
+      ]
+    }
+  ],
+  "by_name": {
+    "Productivity Gains": "#E63946",
+    "P0": "#E63946",
+    "Minimum Wage": "#457B9D",
+    "P1": "#457B9D",
+    "Robin Brooks": "#2A9D8F",
+    "P2": "#2A9D8F",
+    "Export Controls": "#E9C46A",
+    "P3": "#E9C46A",
+    "Racial Wage": "#F4A261",
+    "P4": "#F4A261",
+    "Michael Cembalest": "#264653",
+    "P5": "#264653",
+    "Et Al": "#8338EC",
+    "P6": "#8338EC",
+    "Social Media": "#FF006E",
+    "P7": "#FF006E",
+    "Paul Kedrosky": "#3A86FF",
+    "P8": "#3A86FF"
+  }
+}
