@@ -3,7 +3,7 @@
     "id": "T1-0_T2-0",
     "name": "Public Debt & Database",
     "primary_id": "P0",
-    "primary_name": "Productivity Gains",
+    "primary_name": "Productivity & Public Debt",
     "article_count": 61,
     "x": 39.4178466796875,
     "y": 56.7265510559082
@@ -12,7 +12,7 @@
     "id": "T1-0_T2-1",
     "name": "Value Added & Database",
     "primary_id": "P0",
-    "primary_name": "Productivity Gains",
+    "primary_name": "Productivity & Public Debt",
     "article_count": 59,
     "x": 74.54951477050781,
     "y": 66.59795379638672
@@ -21,7 +21,7 @@
     "id": "T1-0_T2-2",
     "name": "Hours Worked & Database",
     "primary_id": "P0",
-    "primary_name": "Productivity Gains",
+    "primary_name": "Productivity & Public Debt",
     "article_count": 70,
     "x": 21.377893447875977,
     "y": 53.24441909790039
@@ -30,7 +30,7 @@
     "id": "T1-1_T2-0",
     "name": "School Districts & Database",
     "primary_id": "P1",
-    "primary_name": "Minimum Wage",
+    "primary_name": "Fiscal Policy & Education",
     "article_count": 62,
     "x": 55.9058723449707,
     "y": 60.630672454833984
@@ -39,7 +39,7 @@
     "id": "T1-1_T2-1",
     "name": "Deficit Gdp & Database",
     "primary_id": "P1",
-    "primary_name": "Minimum Wage",
+    "primary_name": "Fiscal Policy & Education",
     "article_count": 42,
     "x": 64.61199951171875,
     "y": 3.6495137214660645
@@ -48,7 +48,7 @@
     "id": "T1-1_T2-2",
     "name": "Income & Database",
     "primary_id": "P1",
-    "primary_name": "Minimum Wage",
+    "primary_name": "Fiscal Policy & Education",
     "article_count": 73,
     "x": 60.70684051513672,
     "y": 79.54219818115234
@@ -57,7 +57,7 @@
     "id": "T1-2_T2-0",
     "name": "Bond Yields & Database",
     "primary_id": "P2",
-    "primary_name": "Robin Brooks",
+    "primary_name": "Global Macro & FX",
     "article_count": 39,
     "x": 18.768306732177734,
     "y": 34.83774185180664
@@ -66,7 +66,7 @@
     "id": "T1-2_T2-1",
     "name": "Yields & Financial Markets",
     "primary_id": "P2",
-    "primary_name": "Robin Brooks",
+    "primary_name": "Global Macro & FX",
     "article_count": 36,
     "x": 43.28982925415039,
     "y": 76.46887969970703
@@ -75,7 +75,7 @@
     "id": "T1-2_T2-2",
     "name": "Central Bank & Database",
     "primary_id": "P2",
-    "primary_name": "Robin Brooks",
+    "primary_name": "Global Macro & FX",
     "article_count": 65,
     "x": 0.0,
     "y": 42.839778900146484
@@ -84,7 +84,7 @@
     "id": "T1-3_T2-0",
     "name": "Government Subsidies & Database",
     "primary_id": "P3",
-    "primary_name": "Export Controls",
+    "primary_name": "Trade & Industrial Policy",
     "article_count": 47,
     "x": 36.599910736083984,
     "y": 38.5750617980957
@@ -93,7 +93,7 @@
     "id": "T1-3_T2-1",
     "name": "China & News article",
     "primary_id": "P3",
-    "primary_name": "Export Controls",
+    "primary_name": "Trade & Industrial Policy",
     "article_count": 34,
     "x": 26.047739028930664,
     "y": 71.69512939453125
@@ -102,7 +102,7 @@
     "id": "T1-3_T2-2",
     "name": "Trumps Tariffs & News article",
     "primary_id": "P3",
-    "primary_name": "Export Controls",
+    "primary_name": "Trade & Industrial Policy",
     "article_count": 43,
     "x": 80.08197784423828,
     "y": 33.431495666503906
@@ -111,7 +111,7 @@
     "id": "T1-4_T2-0",
     "name": "Census Bureaus & Database",
     "primary_id": "P4",
-    "primary_name": "Racial Wage",
+    "primary_name": "Inequality & Demographics",
     "article_count": 3,
     "x": 83.92965698242188,
     "y": 11.89022445678711
@@ -120,7 +120,7 @@
     "id": "T1-4_T2-1",
     "name": "Dollar & Database",
     "primary_id": "P4",
-    "primary_name": "Racial Wage",
+    "primary_name": "Inequality & Demographics",
     "article_count": 10,
     "x": 30.440149307250977,
     "y": 19.514223098754883
@@ -129,7 +129,7 @@
     "id": "T1-4_T2-2",
     "name": "Higherincome Families & Database",
     "primary_id": "P4",
-    "primary_name": "Racial Wage",
+    "primary_name": "Inequality & Demographics",
     "article_count": 1,
     "x": 4.404763221740723,
     "y": 65.30111694335938
@@ -138,7 +138,7 @@
     "id": "T1-5_T2-0",
     "name": "Labor Force & Database",
     "primary_id": "P5",
-    "primary_name": "Michael Cembalest",
+    "primary_name": "Private Markets & Wealth",
     "article_count": 16,
     "x": 69.07585906982422,
     "y": 47.97953414916992
@@ -147,7 +147,7 @@
     "id": "T1-5_T2-1",
     "name": "Cembalest & Database",
     "primary_id": "P5",
-    "primary_name": "Michael Cembalest",
+    "primary_name": "Private Markets & Wealth",
     "article_count": 28,
     "x": 47.929264068603516,
     "y": 21.734460830688477
@@ -156,7 +156,7 @@
     "id": "T1-5_T2-2",
     "name": "Household Income & Database",
     "primary_id": "P5",
-    "primary_name": "Michael Cembalest",
+    "primary_name": "Private Markets & Wealth",
     "article_count": 46,
     "x": 55.55945587158203,
     "y": 100.0
@@ -165,7 +165,7 @@
     "id": "T1-6_T2-0",
     "name": "Labor Productivity & Database",
     "primary_id": "P6",
-    "primary_name": "Et Al",
+    "primary_name": "Labor Economics",
     "article_count": 55,
     "x": 77.93684387207031,
     "y": 90.35994720458984
@@ -174,7 +174,7 @@
     "id": "T1-6_T2-1",
     "name": "Superstar Cities & Database",
     "primary_id": "P6",
-    "primary_name": "Et Al",
+    "primary_name": "Labor Economics",
     "article_count": 32,
     "x": 64.42900085449219,
     "y": 25.42170524597168
@@ -183,7 +183,7 @@
     "id": "T1-6_T2-2",
     "name": "Research Shows & Database",
     "primary_id": "P6",
-    "primary_name": "Et Al",
+    "primary_name": "Labor Economics",
     "article_count": 40,
     "x": 53.151512145996094,
     "y": 41.35482406616211
@@ -192,7 +192,7 @@
     "id": "T1-6_T2-3",
     "name": "Minimum Wage & Database",
     "primary_id": "P6",
-    "primary_name": "Et Al",
+    "primary_name": "Labor Economics",
     "article_count": 72,
     "x": 7.0615620613098145,
     "y": 17.846973419189453
@@ -201,7 +201,7 @@
     "id": "T1-6_T2-4",
     "name": "Labor Demand & Database",
     "primary_id": "P6",
-    "primary_name": "Et Al",
+    "primary_name": "Labor Economics",
     "article_count": 56,
     "x": 23.746074676513672,
     "y": 0.0
@@ -210,7 +210,7 @@
     "id": "T1-7_T2-0",
     "name": "Americans Aged & Database",
     "primary_id": "P7",
-    "primary_name": "Social Media",
+    "primary_name": "Society & Culture",
     "article_count": 64,
     "x": 100.0,
     "y": 33.045936584472656
@@ -219,7 +219,7 @@
     "id": "T1-7_T2-1",
     "name": "Voters Age & News article",
     "primary_id": "P7",
-    "primary_name": "Social Media",
+    "primary_name": "Society & Culture",
     "article_count": 8,
     "x": 45.096092224121094,
     "y": 0.45229968428611755
@@ -228,7 +228,7 @@
     "id": "T1-7_T2-2",
     "name": "Peak Peak & Database",
     "primary_id": "P7",
-    "primary_name": "Social Media",
+    "primary_name": "Society & Culture",
     "article_count": 66,
     "x": 13.434277534484863,
     "y": 87.49144744873047
@@ -237,7 +237,7 @@
     "id": "T1-8_T2-0",
     "name": "Drone Manufacturers & News article",
     "primary_id": "P8",
-    "primary_name": "Paul Kedrosky",
+    "primary_name": "Technology & Infrastructure",
     "article_count": 30,
     "x": 34.400020599365234,
     "y": 95.35262298583984
@@ -246,7 +246,7 @@
     "id": "T1-8_T2-1",
     "name": "Advanced Chips & News article",
     "primary_id": "P8",
-    "primary_name": "Paul Kedrosky",
+    "primary_name": "Technology & Infrastructure",
     "article_count": 14,
     "x": 94.44581604003906,
     "y": 73.47242736816406
@@ -255,7 +255,7 @@
     "id": "T1-8_T2-2",
     "name": "Ai & Database",
     "primary_id": "P8",
-    "primary_name": "Paul Kedrosky",
+    "primary_name": "Technology & Infrastructure",
     "article_count": 53,
     "x": 89.49310302734375,
     "y": 52.45223617553711

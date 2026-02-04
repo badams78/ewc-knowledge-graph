@@ -2,142 +2,142 @@
   "id": "T1-7_T2-2",
   "name": "Peak Peak & Database",
   "primary_id": "P7",
-  "primary_name": "Social Media",
+  "primary_name": "Society & Culture",
   "article_count": 66,
   "coords": {
     "x": 13.434277534484863,
     "y": 87.49144744873047
   },
   "spider": {
-    "Productivity Gains": 0.8053153454686035,
-    "Minimum Wage": 0.8366333271704178,
-    "Robin Brooks": 0.8256704555380976,
-    "Export Controls": 0.8096042856451257,
-    "Racial Wage": 0.29365314333881076,
-    "Michael Cembalest": 0.733120570988168,
-    "Et Al": 0.7245176769089352,
-    "Social Media": 0.9731619768087163,
-    "Paul Kedrosky": 0.8127392978301996
+    "Productivity & Public Debt": 0.8053153454686035,
+    "Fiscal Policy & Education": 0.8366333271704178,
+    "Global Macro & FX": 0.8256704555380976,
+    "Trade & Industrial Policy": 0.8096042856451257,
+    "Inequality & Demographics": 0.29365314333881076,
+    "Private Markets & Wealth": 0.733120570988168,
+    "Labor Economics": 0.7245176769089352,
+    "Society & Culture": 0.9731619768087163,
+    "Technology & Infrastructure": 0.8127392978301996
   },
   "related": [
     {
       "id": "T1-7_T2-0",
       "name": "Americans Aged & Database",
-      "primary_name": "Social Media",
+      "primary_name": "Society & Culture",
       "similarity": 0.8907307905802713
     },
     {
       "id": "T1-1_T2-0",
       "name": "School Districts & Database",
-      "primary_name": "Minimum Wage",
+      "primary_name": "Fiscal Policy & Education",
       "similarity": 0.8368165879710081
     },
     {
       "id": "T1-2_T2-2",
       "name": "Central Bank & Database",
-      "primary_name": "Robin Brooks",
+      "primary_name": "Global Macro & FX",
       "similarity": 0.8259926097111439
     },
     {
       "id": "T1-8_T2-2",
       "name": "Ai & Database",
-      "primary_name": "Paul Kedrosky",
+      "primary_name": "Technology & Infrastructure",
       "similarity": 0.8215489241243772
     },
     {
       "id": "T1-0_T2-1",
       "name": "Value Added & Database",
-      "primary_name": "Productivity Gains",
+      "primary_name": "Productivity & Public Debt",
       "similarity": 0.8128263181769454
     },
     {
       "id": "T1-3_T2-0",
       "name": "Government Subsidies & Database",
-      "primary_name": "Export Controls",
+      "primary_name": "Trade & Industrial Policy",
       "similarity": 0.7984340173609743
     },
     {
       "id": "T1-3_T2-2",
       "name": "Trumps Tariffs & News article",
-      "primary_name": "Export Controls",
+      "primary_name": "Trade & Industrial Policy",
       "similarity": 0.7959110949905011
     },
     {
       "id": "T1-1_T2-2",
       "name": "Income & Database",
-      "primary_name": "Minimum Wage",
+      "primary_name": "Fiscal Policy & Education",
       "similarity": 0.7929146031029463
     },
     {
       "id": "T1-1_T2-1",
       "name": "Deficit Gdp & Database",
-      "primary_name": "Minimum Wage",
+      "primary_name": "Fiscal Policy & Education",
       "similarity": 0.7898468741425423
     },
     {
       "id": "T1-5_T2-2",
       "name": "Household Income & Database",
-      "primary_name": "Michael Cembalest",
+      "primary_name": "Private Markets & Wealth",
       "similarity": 0.7814461307206746
     },
     {
       "id": "T1-0_T2-0",
       "name": "Public Debt & Database",
-      "primary_name": "Productivity Gains",
+      "primary_name": "Productivity & Public Debt",
       "similarity": 0.7753114184100014
     },
     {
       "id": "T1-2_T2-0",
       "name": "Bond Yields & Database",
-      "primary_name": "Robin Brooks",
+      "primary_name": "Global Macro & FX",
       "similarity": 0.7741310632048389
     },
     {
       "id": "T1-8_T2-0",
       "name": "Drone Manufacturers & News article",
-      "primary_name": "Paul Kedrosky",
+      "primary_name": "Technology & Infrastructure",
       "similarity": 0.7696461498001685
     },
     {
       "id": "T1-2_T2-1",
       "name": "Yields & Financial Markets",
-      "primary_name": "Robin Brooks",
+      "primary_name": "Global Macro & FX",
       "similarity": 0.7660508249501212
     },
     {
       "id": "T1-0_T2-2",
       "name": "Hours Worked & Database",
-      "primary_name": "Productivity Gains",
+      "primary_name": "Productivity & Public Debt",
       "similarity": 0.7657811752804415
     },
     {
       "id": "T1-6_T2-1",
       "name": "Superstar Cities & Database",
-      "primary_name": "Et Al",
+      "primary_name": "Labor Economics",
       "similarity": 0.7228846486104847
     },
     {
       "id": "T1-6_T2-3",
       "name": "Minimum Wage & Database",
-      "primary_name": "Et Al",
+      "primary_name": "Labor Economics",
       "similarity": 0.7009895313308468
     },
     {
       "id": "T1-6_T2-0",
       "name": "Labor Productivity & Database",
-      "primary_name": "Et Al",
+      "primary_name": "Labor Economics",
       "similarity": 0.6909326931173083
     },
     {
       "id": "T1-6_T2-2",
       "name": "Research Shows & Database",
-      "primary_name": "Et Al",
+      "primary_name": "Labor Economics",
       "similarity": 0.6902865485526302
     },
     {
       "id": "T1-3_T2-1",
       "name": "China & News article",
-      "primary_name": "Export Controls",
+      "primary_name": "Trade & Industrial Policy",
       "similarity": 0.681388941756174
     }
   ]

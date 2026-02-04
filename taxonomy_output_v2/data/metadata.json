@@ -4,7 +4,7 @@
   "primaries": [
     {
       "id": "P0",
-      "name": "Productivity Gains",
+      "name": "Productivity & Public Debt",
       "color": "#E63946",
       "subclusters": [
         {
@@ -26,7 +26,7 @@
     },
     {
       "id": "P1",
-      "name": "Minimum Wage",
+      "name": "Fiscal Policy & Education",
       "color": "#457B9D",
       "subclusters": [
         {
@@ -48,7 +48,7 @@
     },
     {
       "id": "P2",
-      "name": "Robin Brooks",
+      "name": "Global Macro & FX",
       "color": "#2A9D8F",
       "subclusters": [
         {
@@ -70,7 +70,7 @@
     },
     {
       "id": "P3",
-      "name": "Export Controls",
+      "name": "Trade & Industrial Policy",
       "color": "#E9C46A",
       "subclusters": [
         {
@@ -92,7 +92,7 @@
     },
     {
       "id": "P4",
-      "name": "Racial Wage",
+      "name": "Inequality & Demographics",
       "color": "#F4A261",
       "subclusters": [
         {
@@ -114,7 +114,7 @@
     },
     {
       "id": "P5",
-      "name": "Michael Cembalest",
+      "name": "Private Markets & Wealth",
       "color": "#264653",
       "subclusters": [
         {
@@ -136,7 +136,7 @@
     },
     {
       "id": "P6",
-      "name": "Et Al",
+      "name": "Labor Economics",
       "color": "#8338EC",
       "subclusters": [
         {
@@ -168,7 +168,7 @@
     },
     {
       "id": "P7",
-      "name": "Social Media",
+      "name": "Society & Culture",
       "color": "#FF006E",
       "subclusters": [
         {
@@ -190,7 +190,7 @@
     },
     {
       "id": "P8",
-      "name": "Paul Kedrosky",
+      "name": "Technology & Infrastructure",
       "color": "#3A86FF",
       "subclusters": [
         {

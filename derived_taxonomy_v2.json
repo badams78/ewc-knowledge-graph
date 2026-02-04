@@ -10,6 +10,10 @@
       "tier2_silhouette": 0.04349663725480339,
       "top_existing_topics": [
         [
+          "Productivity & Public Debt",
+          1000
+        ],
+        [
           "Productivity Gains",
           999
         ]
@@ -151,6 +155,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.047160628995886716,
       "top_existing_topics": [
+        [
+          "Fiscal Policy & Education",
+          1000
+        ],
         [
           "Minimum Wage",
           999
@@ -294,6 +302,10 @@
       "tier2_silhouette": 0.054769366730802856,
       "top_existing_topics": [
         [
+          "Global Macro & FX",
+          1000
+        ],
+        [
           "Robin Brooks",
           999
         ]
@@ -435,6 +447,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.05734236588610802,
       "top_existing_topics": [
+        [
+          "Trade & Industrial Policy",
+          1000
+        ],
         [
           "Export Controls",
           999
@@ -578,6 +594,10 @@
       "tier2_silhouette": 0.926456826022477,
       "top_existing_topics": [
         [
+          "Inequality & Demographics",
+          1000
+        ],
+        [
           "Racial Wage",
           999
         ]
@@ -696,6 +716,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.11570145701321949,
       "top_existing_topics": [
+        [
+          "Private Markets & Wealth",
+          1000
+        ],
         [
           "Michael Cembalest",
           999
@@ -838,6 +862,10 @@
       "tier2_count": 5,
       "tier2_silhouette": 0.038463370002538015,
       "top_existing_topics": [
+        [
+          "Labor Economics",
+          1000
+        ],
         [
           "Et Al",
           999
@@ -1041,6 +1069,10 @@
       "tier2_silhouette": 0.05538493965831287,
       "top_existing_topics": [
         [
+          "Society & Culture",
+          1000
+        ],
+        [
           "Social Media",
           999
         ]
@@ -1182,6 +1214,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.08947857902487438,
       "top_existing_topics": [
+        [
+          "Technology & Infrastructure",
+          1000
+        ],
         [
           "Paul Kedrosky",
           999
