@@ -1,6 +1,6 @@
 {
   "id": "T1-6_T2-2",
-  "name": "Research Shows & Database",
+  "name": "Research Shows",
   "primary_id": "P6",
   "primary_name": "Labor Economics",
   "article_count": 40,
@@ -9,135 +9,135 @@
     "y": 41.35482406616211
   },
   "spider": {
-    "Productivity & Public Debt": 0.8586310829605401,
-    "Fiscal Policy & Education": 0.8607645707875455,
-    "Global Macro & FX": 0.5729498867950142,
-    "Trade & Industrial Policy": 0.5218543377562543,
-    "Inequality & Demographics": 0.31022427371460237,
-    "Private Markets & Wealth": 0.6569335333618109,
+    "Productivity": 0.8586310829605401,
+    "Fiscal Policy": 0.8607645707875455,
+    "Global Macro": 0.5729498867950142,
+    "Trade Policy": 0.5218543377562543,
+    "Inequality": 0.31022427371460237,
+    "Private Markets": 0.6569335333618109,
     "Labor Economics": 0.9244693356066178,
-    "Society & Culture": 0.7154626270006419,
-    "Technology & Infrastructure": 0.5365311049837536
+    "Society": 0.7154626270006419,
+    "Technology": 0.5365311049837536
   },
   "related": [
     {
       "id": "T1-6_T2-3",
-      "name": "Minimum Wage & Database",
+      "name": "Minimum Wage",
       "primary_name": "Labor Economics",
       "similarity": 0.9034302600126616
     },
     {
       "id": "T1-1_T2-0",
-      "name": "School Districts & Database",
-      "primary_name": "Fiscal Policy & Education",
+      "name": "School Districts",
+      "primary_name": "Fiscal Policy",
       "similarity": 0.8889218112024083
     },
     {
       "id": "T1-0_T2-2",
-      "name": "Hours Worked & Database",
-      "primary_name": "Productivity & Public Debt",
+      "name": "Hours Worked",
+      "primary_name": "Productivity",
       "similarity": 0.8775472506548718
     },
     {
       "id": "T1-6_T2-0",
-      "name": "Labor Productivity & Database",
+      "name": "Labor Productivity",
       "primary_name": "Labor Economics",
       "similarity": 0.8635341516961174
     },
     {
       "id": "T1-1_T2-2",
-      "name": "Income & Database",
-      "primary_name": "Fiscal Policy & Education",
+      "name": "Income",
+      "primary_name": "Fiscal Policy",
       "similarity": 0.8472893034929952
     },
     {
       "id": "T1-6_T2-4",
-      "name": "Labor Demand & Database",
+      "name": "Labor Demand",
       "primary_name": "Labor Economics",
       "similarity": 0.8405285412094774
     },
     {
       "id": "T1-0_T2-1",
-      "name": "Value Added & Database",
-      "primary_name": "Productivity & Public Debt",
+      "name": "Value Added",
+      "primary_name": "Productivity",
       "similarity": 0.8190950678851429
     },
     {
       "id": "T1-6_T2-1",
-      "name": "Superstar Cities & Database",
+      "name": "Superstar Cities",
       "primary_name": "Labor Economics",
       "similarity": 0.8166285956769876
     },
     {
       "id": "T1-0_T2-0",
-      "name": "Public Debt & Database",
-      "primary_name": "Productivity & Public Debt",
+      "name": "Public Debt",
+      "primary_name": "Productivity",
       "similarity": 0.8008992167646269
     },
     {
       "id": "T1-1_T2-1",
-      "name": "Deficit Gdp & Database",
-      "primary_name": "Fiscal Policy & Education",
+      "name": "Deficit Gdp",
+      "primary_name": "Fiscal Policy",
       "similarity": 0.7209671350027831
     },
     {
       "id": "T1-7_T2-0",
-      "name": "Americans Aged & Database",
-      "primary_name": "Society & Culture",
+      "name": "Americans Aged",
+      "primary_name": "Society",
       "similarity": 0.71194205709416
     },
     {
       "id": "T1-7_T2-2",
-      "name": "Peak Peak & Database",
-      "primary_name": "Society & Culture",
+      "name": "Peak Peak",
+      "primary_name": "Society",
       "similarity": 0.6902865485526302
     },
     {
       "id": "T1-5_T2-2",
-      "name": "Household Income & Database",
-      "primary_name": "Private Markets & Wealth",
+      "name": "Household Income",
+      "primary_name": "Private Markets",
       "similarity": 0.6729130421089189
     },
     {
       "id": "T1-5_T2-0",
-      "name": "Labor Force & Database",
-      "primary_name": "Private Markets & Wealth",
+      "name": "Labor Force",
+      "primary_name": "Private Markets",
       "similarity": 0.6223701753738559
     },
     {
       "id": "T1-2_T2-2",
-      "name": "Central Bank & Database",
-      "primary_name": "Global Macro & FX",
+      "name": "Central Bank",
+      "primary_name": "Global Macro",
       "similarity": 0.5839016381721164
     },
     {
       "id": "T1-3_T2-0",
-      "name": "Government Subsidies & Database",
-      "primary_name": "Trade & Industrial Policy",
+      "name": "Government Subsidies",
+      "primary_name": "Trade Policy",
       "similarity": 0.5673795110949804
     },
     {
       "id": "T1-5_T2-1",
-      "name": "Cembalest & Database",
-      "primary_name": "Private Markets & Wealth",
+      "name": "Cembalest",
+      "primary_name": "Private Markets",
       "similarity": 0.5659252686895354
     },
     {
       "id": "T1-8_T2-2",
-      "name": "Ai & Database",
-      "primary_name": "Technology & Infrastructure",
+      "name": "Ai",
+      "primary_name": "Technology",
       "similarity": 0.5540451814394322
     },
     {
       "id": "T1-2_T2-1",
       "name": "Yields & Financial Markets",
-      "primary_name": "Global Macro & FX",
+      "primary_name": "Global Macro",
       "similarity": 0.5343779941546271
     },
     {
       "id": "T1-2_T2-0",
-      "name": "Bond Yields & Database",
-      "primary_name": "Global Macro & FX",
+      "name": "Bond Yields",
+      "primary_name": "Global Macro",
       "similarity": 0.5167660739078842
     }
   ]

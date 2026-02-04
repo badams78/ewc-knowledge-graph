@@ -10,6 +10,10 @@
       "tier2_silhouette": 0.04349663725480339,
       "top_existing_topics": [
         [
+          "Productivity",
+          1000
+        ],
+        [
           "Productivity & Public Debt",
           1000
         ],
@@ -155,6 +159,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.047160628995886716,
       "top_existing_topics": [
+        [
+          "Fiscal Policy",
+          1000
+        ],
         [
           "Fiscal Policy & Education",
           1000
@@ -302,6 +310,10 @@
       "tier2_silhouette": 0.054769366730802856,
       "top_existing_topics": [
         [
+          "Global Macro",
+          1000
+        ],
+        [
           "Global Macro & FX",
           1000
         ],
@@ -447,6 +459,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.05734236588610802,
       "top_existing_topics": [
+        [
+          "Trade Policy",
+          1000
+        ],
         [
           "Trade & Industrial Policy",
           1000
@@ -594,6 +610,10 @@
       "tier2_silhouette": 0.926456826022477,
       "top_existing_topics": [
         [
+          "Inequality",
+          1000
+        ],
+        [
           "Inequality & Demographics",
           1000
         ],
@@ -716,6 +736,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.11570145701321949,
       "top_existing_topics": [
+        [
+          "Private Markets",
+          1000
+        ],
         [
           "Private Markets & Wealth",
           1000
@@ -862,6 +886,10 @@
       "tier2_count": 5,
       "tier2_silhouette": 0.038463370002538015,
       "top_existing_topics": [
+        [
+          "Labor Economics",
+          1000
+        ],
         [
           "Labor Economics",
           1000
@@ -1069,6 +1097,10 @@
       "tier2_silhouette": 0.05538493965831287,
       "top_existing_topics": [
         [
+          "Society",
+          1000
+        ],
+        [
           "Society & Culture",
           1000
         ],
@@ -1214,6 +1246,10 @@
       "tier2_count": 3,
       "tier2_silhouette": 0.08947857902487438,
       "top_existing_topics": [
+        [
+          "Technology",
+          1000
+        ],
         [
           "Technology & Infrastructure",
           1000

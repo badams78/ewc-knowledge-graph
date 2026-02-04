@@ -87,13 +87,19 @@ def calculate_centroids(taxonomy, embedding_map, assignments):
             
             centroid = np.mean(embs, axis=0)
             
-            # Name heuristic: Use top existing topic + category
+            # Name heuristic: Use top existing topic + category (filtered)
             t2_topics = t2_data.get('top_existing_topics', [])
             t2_cats = t2_data.get('top_existing_categories', [])
             
             name_parts = []
             if t2_topics: name_parts.append(t2_topics[0][0])
-            if t2_cats: name_parts.append(t2_cats[0][0])
+            
+            # Only append category if it's NOT generic
+            if t2_cats:
+                cat_name = t2_cats[0][0]
+                if cat_name not in ["Database", "News article", "Unknown"]:
+                    name_parts.append(cat_name)
+                    
             name = " & ".join(name_parts) if name_parts else f"Subcluster {t2_key}"
             
             subclusters.append({

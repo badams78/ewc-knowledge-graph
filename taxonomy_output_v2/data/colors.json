@@ -2,56 +2,56 @@
   "primaries": [
     {
       "id": "P0",
-      "name": "Productivity & Public Debt",
+      "name": "Productivity",
       "color": "#E63946",
       "subclusters": [
         {
           "id": "T1-0_T2-0",
-          "name": "Public Debt & Database",
+          "name": "Public Debt",
           "article_count": 61
         },
         {
           "id": "T1-0_T2-1",
-          "name": "Value Added & Database",
+          "name": "Value Added",
           "article_count": 59
         },
         {
           "id": "T1-0_T2-2",
-          "name": "Hours Worked & Database",
+          "name": "Hours Worked",
           "article_count": 70
         }
       ]
     },
     {
       "id": "P1",
-      "name": "Fiscal Policy & Education",
+      "name": "Fiscal Policy",
       "color": "#457B9D",
       "subclusters": [
         {
           "id": "T1-1_T2-0",
-          "name": "School Districts & Database",
+          "name": "School Districts",
           "article_count": 62
         },
         {
           "id": "T1-1_T2-1",
-          "name": "Deficit Gdp & Database",
+          "name": "Deficit Gdp",
           "article_count": 42
         },
         {
           "id": "T1-1_T2-2",
-          "name": "Income & Database",
+          "name": "Income",
           "article_count": 73
         }
       ]
     },
     {
       "id": "P2",
-      "name": "Global Macro & FX",
+      "name": "Global Macro",
       "color": "#2A9D8F",
       "subclusters": [
         {
           "id": "T1-2_T2-0",
-          "name": "Bond Yields & Database",
+          "name": "Bond Yields",
           "article_count": 39
         },
         {
@@ -61,73 +61,73 @@
         },
         {
           "id": "T1-2_T2-2",
-          "name": "Central Bank & Database",
+          "name": "Central Bank",
           "article_count": 65
         }
       ]
     },
     {
       "id": "P3",
-      "name": "Trade & Industrial Policy",
+      "name": "Trade Policy",
       "color": "#E9C46A",
       "subclusters": [
         {
           "id": "T1-3_T2-0",
-          "name": "Government Subsidies & Database",
+          "name": "Government Subsidies",
           "article_count": 47
         },
         {
           "id": "T1-3_T2-1",
-          "name": "China & News article",
+          "name": "China",
           "article_count": 34
         },
         {
           "id": "T1-3_T2-2",
-          "name": "Trumps Tariffs & News article",
+          "name": "Trumps Tariffs",
           "article_count": 43
         }
       ]
     },
     {
       "id": "P4",
-      "name": "Inequality & Demographics",
+      "name": "Inequality",
       "color": "#F4A261",
       "subclusters": [
         {
           "id": "T1-4_T2-0",
-          "name": "Census Bureaus & Database",
+          "name": "Census Bureaus",
           "article_count": 3
         },
         {
           "id": "T1-4_T2-1",
-          "name": "Dollar & Database",
+          "name": "Dollar",
           "article_count": 10
         },
         {
           "id": "T1-4_T2-2",
-          "name": "Higherincome Families & Database",
+          "name": "Higherincome Families",
           "article_count": 1
         }
       ]
     },
     {
       "id": "P5",
-      "name": "Private Markets & Wealth",
+      "name": "Private Markets",
       "color": "#264653",
       "subclusters": [
         {
           "id": "T1-5_T2-0",
-          "name": "Labor Force & Database",
+          "name": "Labor Force",
           "article_count": 16
         },
         {
           "id": "T1-5_T2-1",
-          "name": "Cembalest & Database",
+          "name": "Cembalest",
           "article_count": 28
         },
         {
           "id": "T1-5_T2-2",
-          "name": "Household Income & Database",
+          "name": "Household Income",
           "article_count": 46
         }
       ]
@@ -139,94 +139,94 @@
       "subclusters": [
         {
           "id": "T1-6_T2-0",
-          "name": "Labor Productivity & Database",
+          "name": "Labor Productivity",
           "article_count": 55
         },
         {
           "id": "T1-6_T2-1",
-          "name": "Superstar Cities & Database",
+          "name": "Superstar Cities",
           "article_count": 32
         },
         {
           "id": "T1-6_T2-2",
-          "name": "Research Shows & Database",
+          "name": "Research Shows",
           "article_count": 40
         },
         {
           "id": "T1-6_T2-3",
-          "name": "Minimum Wage & Database",
+          "name": "Minimum Wage",
           "article_count": 72
         },
         {
           "id": "T1-6_T2-4",
-          "name": "Labor Demand & Database",
+          "name": "Labor Demand",
           "article_count": 56
         }
       ]
     },
     {
       "id": "P7",
-      "name": "Society & Culture",
+      "name": "Society",
       "color": "#FF006E",
       "subclusters": [
         {
           "id": "T1-7_T2-0",
-          "name": "Americans Aged & Database",
+          "name": "Americans Aged",
           "article_count": 64
         },
         {
           "id": "T1-7_T2-1",
-          "name": "Voters Age & News article",
+          "name": "Voters Age",
           "article_count": 8
         },
         {
           "id": "T1-7_T2-2",
-          "name": "Peak Peak & Database",
+          "name": "Peak Peak",
           "article_count": 66
         }
       ]
     },
     {
       "id": "P8",
-      "name": "Technology & Infrastructure",
+      "name": "Technology",
       "color": "#3A86FF",
       "subclusters": [
         {
           "id": "T1-8_T2-0",
-          "name": "Drone Manufacturers & News article",
+          "name": "Drone Manufacturers",
           "article_count": 30
         },
         {
           "id": "T1-8_T2-1",
-          "name": "Advanced Chips & News article",
+          "name": "Advanced Chips",
           "article_count": 14
         },
         {
           "id": "T1-8_T2-2",
-          "name": "Ai & Database",
+          "name": "Ai",
           "article_count": 53
         }
       ]
     }
   ],
   "by_name": {
-    "Productivity & Public Debt": "#E63946",
+    "Productivity": "#E63946",
     "P0": "#E63946",
-    "Fiscal Policy & Education": "#457B9D",
+    "Fiscal Policy": "#457B9D",
     "P1": "#457B9D",
-    "Global Macro & FX": "#2A9D8F",
+    "Global Macro": "#2A9D8F",
     "P2": "#2A9D8F",
-    "Trade & Industrial Policy": "#E9C46A",
+    "Trade Policy": "#E9C46A",
     "P3": "#E9C46A",
-    "Inequality & Demographics": "#F4A261",
+    "Inequality": "#F4A261",
     "P4": "#F4A261",
-    "Private Markets & Wealth": "#264653",
+    "Private Markets": "#264653",
     "P5": "#264653",
     "Labor Economics": "#8338EC",
     "P6": "#8338EC",
-    "Society & Culture": "#FF006E",
+    "Society": "#FF006E",
     "P7": "#FF006E",
-    "Technology & Infrastructure": "#3A86FF",
+    "Technology": "#3A86FF",
     "P8": "#3A86FF"
   }
 }
